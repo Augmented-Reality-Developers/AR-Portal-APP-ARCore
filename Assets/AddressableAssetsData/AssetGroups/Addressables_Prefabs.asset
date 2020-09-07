@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Addressables_Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Addressables_Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 93144afe206f62540a18d82ea723649e
+  m_SerializeEntries:
+  - m_GUID: 3876e5469a8e4774c8e455e83060541e
+    m_Address: Racing Car_Yellow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+    m_MainAsset: {fileID: 1833253201146048, guid: 3876e5469a8e4774c8e455e83060541e,
+      type: 3}
+    m_TargetAsset: {fileID: 1833253201146048, guid: 3876e5469a8e4774c8e455e83060541e,
+      type: 3}
+  - m_GUID: 5d2d294a55c8dad4f863791b2ec6aa9e
+    m_Address: Racing Car_Blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+    m_MainAsset: {fileID: 1216336052455082, guid: 5d2d294a55c8dad4f863791b2ec6aa9e,
+      type: 3}
+    m_TargetAsset: {fileID: 1216336052455082, guid: 5d2d294a55c8dad4f863791b2ec6aa9e,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a4350161cd870e44687a6889e9a80755, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 42009193c20c7394eb5ef19184efda57, type: 2}
+    - {fileID: 11400000, guid: b0dc19a505164b144a7288467d9cdf2c, type: 2}
